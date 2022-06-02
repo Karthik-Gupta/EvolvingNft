@@ -6,9 +6,9 @@ The basic idea is:
 There can be a base character, different accessories for it and the combination of them will be the new NFT being evolved.
 
 Implementation:
-Base character sc - ERC 721
-Accessory sc - ERC 1155
-Evolved sc - ERC 721
+Character sc - ERC 721 <br />
+Accessory sc - ERC 1155 <br />
+Evolved sc - ERC 721 <br />
 
 Try running some of the following tasks:
 
