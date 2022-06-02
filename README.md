@@ -3,7 +3,7 @@
 This is a sample project to demonstrate the idea of evolving NFT in its basic form.
 
 The basic idea is:
-There can be a base character, different accessories for it and the combination of them will be the new NFT being evolved. When the evolved NFT is transferred to another address, all the compositions are transferred (Evolved NFT itself, Base Character and the accessories)
+There can be a base character, different accessories for it and the combination of them will be the new NFT being evolved. When the evolved NFT is transferred to another address, all the compositions are transferred (Evolved NFT itself, base character and the accessories)
 
 Implementation: <br />
 Character sc - ERC 721 <br />
