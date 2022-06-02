@@ -13,6 +13,8 @@ Evolved sc - ERC 721 <br />
 User can own the base character and accessories and can evolve them into a combined NFT with any combination of <br />
 * Base character + some accessories
 * Base character + all accessories
+
+
 If the evolved NFT is transferred to a different address, the base with relative accessories are transferred as well
 
 Try running some of the following tasks:
