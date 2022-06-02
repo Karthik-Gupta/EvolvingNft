@@ -15,7 +15,7 @@ User can own the base character and accessories and can evolve them into a combi
 * Base character + all accessories
 
 
-If the evolved NFT is transferred to a different address, the base with relative accessories are transferred as well
+If the evolved NFT is transferred to a different address, the base with relative accessories are transferred as well, composition transfer is handled through the callback hook.
 
 Try running some of the following tasks:
 
